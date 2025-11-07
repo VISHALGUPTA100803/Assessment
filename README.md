@@ -15,7 +15,6 @@
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [API Integration](#api-integration)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -307,19 +306,7 @@ The application handles various error scenarios:
 - Malformed responses
 - Empty or invalid inputs
 
-## 📸 Screenshots
 
-### Main Interface
-![Main Interface](screenshots/main-interface.png)
-*Clean, modern interface with clear call-to-action*
-
-### Analysis Results
-![Analysis Results](screenshots/results-display.png)
-*Formatted results with sentiment classification and detailed summary*
-
-### Error Handling
-![Error Handling](screenshots/error-message.png)
-*User-friendly error messages with troubleshooting guidance*
 
 ## 🤝 Contributing
 
