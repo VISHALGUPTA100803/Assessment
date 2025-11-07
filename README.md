@@ -1,6 +1,20 @@
+
+https://github.com/user-attachments/assets/9aab3891-0a69-49b8-9664-3ef4e0d56790
 # 🤖 AI Text Analyzer
 
 > An intelligent text analysis application powered by Google's Gemini AI and automated with n8n workflows
+
+
+
+
+
+## 🎥 Video Demo
+
+
+
+
+https://github.com/user-attachments/assets/6be52ae9-e216-42b0-95c9-817bb4055678
+
 
 
 ## 📋 Table of Contents
